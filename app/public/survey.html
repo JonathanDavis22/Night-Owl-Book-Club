@@ -231,8 +231,8 @@
             if (validateForm()) {
                 // Create an object for the user's data
                 let newUser = {
-                    name: $("#name").val.trim(),
-                    photo: $("#photo").val.trim(),
+                    name: $("#name").val().trim(),
+                    photo: $("#photo").val().trim(),
                     scores: [
                         $("#q1").val(),
                         $("#q2").val(),
