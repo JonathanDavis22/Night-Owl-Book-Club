@@ -1,0 +1,25 @@
+{
+  "name": "Night-Owl-Book-Club",
+  "version": "1.0.0",
+  "description": "A bookbuddy/-club matchmaker application.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanDavis22/Night-Owl-Book-Club.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanDavis22/Night-Owl-Book-Club/issues"
+  },
+  "homepage": "https://github.com/JonathanDavis22/Night-Owl-Book-Club#readme"
+}
