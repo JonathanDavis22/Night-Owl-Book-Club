@@ -4,11 +4,11 @@ A bookbuddy/-club matchmaker application.
 
 ## Getting Started
 
-Fill out the literary survey to find out who you match with to start a book club!
+Fill out the literary survey to find out who you match with to create a literary friendship or even start a book club!
 
-### Prerequisites
+### Technologies
 
-Express, Path.
+HTML, CSS, Bootstrap, JavaScript, Express, Path.
 
 ### Installing
 
@@ -24,9 +24,8 @@ Download the repository. Run 'npm install' in your repository folder to install 
 
 ## Built With
 
-* [Node](https://nodejs.org/api/http.html) - The JavaScript runtime used
-* [MySQL](https://www.mysql.com/) - Used to create realtime database for storefront inventory.
-* [Path](https://www.npmjs.com/package/path) - Used to set routes.
+* [Express](https://www.npmjs.com/package/express) - Used for routing.
+* [Path](https://www.npmjs.com/package/path) - Used for filepaths.
 
 ## Authors
 
