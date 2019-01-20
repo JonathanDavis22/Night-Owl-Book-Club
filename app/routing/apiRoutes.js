@@ -5,6 +5,8 @@ const router = express.Router();
 // Get from friends.js
 let friends = require('../data/friends.js');
 
+router.get("https://github.com/JonathanDavis22/Night-Owl-Book-Club")
+
 // Return matches from friends.js as JSON data
 router.get("/api/friends", function (req, res) {
     res.json(friends);
